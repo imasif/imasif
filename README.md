@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/ZuupN8H.gif"> 
+<img src="https://i.imgur.com/ZuupN8H.gif">
+
+<img align="left" alt="Asif's github stats" src="https://github-readme-stats.vercel.app/api?username=imasif&show_icons=true&hide_border=true">
 
 <!--👋
 **imasif/imasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
